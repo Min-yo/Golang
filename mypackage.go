@@ -1,4 +1,3 @@
-package github.com/min-yo/golang
+package mypackage
 func find_sum(a, b int) int {
-	return a + b;
-}
+	return a + b;}
